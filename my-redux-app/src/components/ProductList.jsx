@@ -1,4 +1,4 @@
-// src/components/ProductList.jsx
+
 import React, { useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { addToCart } from '../store/cartSlice';
